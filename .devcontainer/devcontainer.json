@@ -1,0 +1,5 @@
+{
+  "name": "my-mcp-server",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "postCreateCommand": "npx --yes skills add remotion-dev/skills --yes"
+}
